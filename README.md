@@ -11,7 +11,7 @@ A HFBrasil é uma das partes do Centro de Estudos Avançados em Economia Aplicad
 
 O objetivo deste projeto é realizar uma análise do comportamento dos preços de cada uma dessas frutas no ano de 2022 e como os preços delas se comportaram no primeiro mês de 2023. Observamos qual foi a fruta com maior preço médio de 2022, quais frutas tiveram maior aumento e maior queda no período e qual fruta apresentou maior variação em seus preços em 2022. Além disso, verificamos o tamanho do impacto da inflação nos preços. Por fim, pudemos ver a tendência dos preços para cada uma das frutas no início de 2023. O Jupyter Notebook onde foi realizada a análise pode ser visto em: https://nbviewer.org/github/tharikf/Projeto_Preco_Frutas/blob/main/Avaliando_Preco_Frutas.ipynb.
 
-PS: A imagem abaixo foi gerada com o auxílio da inteligência artificial no site DALL-E da empresa OpenAI.
+PS: A imagem abaixo foi gerada com o auxílio da inteligência artificial DALL-E da empresa OpenAI.
 
 <p align="center">
   <img src="cesta_frutas.png" width="740" title="hover text">
